@@ -1,0 +1,3 @@
+package kafkaclone
+
+func main() {}
